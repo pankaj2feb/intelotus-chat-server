@@ -7,7 +7,7 @@ This nodejs server which uses socket.io to establish communication channel betwe
 
 
 
-##### This nodejs app should be used along with 
+##### This nodejs app should be used along with below project
 * intelotus-chat-app
 * intelotus-chat-server-admin
 
